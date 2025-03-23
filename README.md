@@ -29,3 +29,5 @@ The main analysis can be found in the Jupyter notebooks. The project uses Python
 ## Notes
 
 This project is for research and educational purposes. All data is sourced from publicly available Warsaw transport APIs. 
+
+Brief description of exploration of data can be found in the [Google docs document](https://docs.google.com/document/d/1ewFo5SRkvxhdMza2mqSiUS3AARcQ3ajPvCTIysygWAU/edit?tab=t.0#heading=h.4qc55alv5ygn).
