@@ -18,7 +18,6 @@ OUTPUT_FOLDER = "data/timetable"
 CSV_FILENAME = "data/df_bus_routes.csv"  # your CSV file
 # If the API also needs an 'apikey' param, add it here:
 API_KEY = "op://khrustal/api.um.warszawa.pl/Section_j3dttihdrs6or7g7eztj2zaeuq/api_key"
-"op://khrustal/api.um.warszawa.pl/api_key"
 # ------------------------------------------------------------------
 # 2) PREPARE OUTPUT FOLDER & DATAFRAME
 # ------------------------------------------------------------------
